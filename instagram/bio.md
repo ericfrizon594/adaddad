@@ -15,23 +15,32 @@ Novembro de 2026. Arquivos desta pasta:
 
 ## 1. Bio para publicar hoje
 
+Versão escolhida pelo dono da marca:
+
+```
+Colchão compactado
+Seu sonho dentro da caixa 🖤💛
+💬 Dúvida? Fale com quem fabrica: [telefone da bio original]
+Escolha o seu ↓
+```
+
+114 caracteres com o telefone, contando cada emoji como 2 (o limite do Instagram é 150). O telefone fica como marcador neste documento porque o repositório é público.
+
+- **Linha 1** diz o que é o produto.
+- **Linha 2** retoma a frase que já estava na bio.
+- **Linha 3** junta confiança e contato. Só vale se o telefone for atendido pela própria fábrica.
+- **Linha 4** aponta para o link.
+
+Número escrito no texto da bio normalmente não é clicável. Mantenha também o botão de WhatsApp do perfil.
+
+Versão sugerida antes, sem telefone no texto:
+
 ```
 Colchão na caixa, direto da nossa fábrica.
 A caixa é pequena. O Sonho, não. 🖤💛
 💬 Dúvida? Fale com quem fabrica
 Escolha o seu ↓
 ```
-
-129 caracteres contando cada emoji como 2 (o limite do Instagram é 150), 4 linhas, 3 emojis.
-
-- **Linha 1** diz o que é e ocupa um espaço que nenhuma marca na caixa pesquisada ocupa: "na caixa" + "direto da fábrica".
-- **Linha 2** é a frase de marca. Responde sem dizer à dúvida "o colchão volta ao tamanho normal?".
-- **Linha 3** junta confiança e próximo passo.
-- **Linha 4** aponta para o link.
-
-As duas primeiras linhas somam 80 caracteres, então aparecem inteiras antes do "mais" no celular.
-
-**Uma checagem antes de publicar:** a linha 3 só vale se o WhatsApp for atendido pela própria fábrica. Se o atendimento for terceirizado, troque por `💬 Dúvida? Chame no WhatsApp`.
 
 ## 2. Bio com provas (quando os números estiverem confirmados)
 
@@ -113,7 +122,7 @@ A embalagem, as capas de destaque e os posts continuam com o conjunto completo "
 
 Os caminhos de menu abaixo não foram conferidos na versão atual do aplicativo. Se algum não aparecer onde indicado, procure pela função descrita.
 
-1. **WhatsApp no botão, não no texto.** Tire o telefone da bio. Em Editar perfil, nas informações de contato da empresa, cadastre o número do WhatsApp Business e ative a exibição do contato no perfil.
+1. **WhatsApp no botão.** Além do telefone no texto, em Editar perfil, nas informações de contato da empresa, cadastre o número do WhatsApp Business e ative a exibição do contato no perfil.
 2. **Primeiro link.** É o único que aparece no perfil, e aparece como endereço. Aponte para onde a compra fecha hoje. O ideal é um endereço do próprio domínio que redirecione para a página da marca no Mercado Livre (exemplo: `sonhocolchoes.com/comprar`).
 3. **Outros links.** Segundo: `sonhocolchoes.com`, com o título "Site oficial". Terceiro: o link direto do WhatsApp (`https://wa.me/55` + DDD + número, tudo junto), com o título "Fale com quem fabrica".
 4. **Categoria.** Em Editar perfil > Categoria, escolha fabricante de colchões (ou loja de colchões) e ative a exibição no perfil.
