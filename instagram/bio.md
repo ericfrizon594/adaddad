@@ -6,6 +6,9 @@ Novembro de 2026. Arquivos desta pasta:
 | --- | --- |
 | `foto-perfil-sonho.png` | Foto de perfil oficial (1080×1080). É esta que sobe. |
 | `foto-perfil-sonho-dourado-metalico.png` | Plano B: mesma composição com o dourado metálico original. |
+| `foto-perfil-sonho-traco-original.png` | Mesma foto com a caligrafia no traço original, sem reforço. |
+| `foto-perfil-sonho-original-metalico.png` | Caligrafia e dourado metálico originais, só sem o anel e o "colchões". |
+| `comparativo-traco.png` | As três versões lado a lado, em todos os tamanhos do Instagram. |
 | `previa-antes-depois.png` | Simulação do perfil antes e depois, nos tamanhos reais de tela. |
 | `logo/sonho-logotipo-*.svg` | Logotipo "Sonho" vetorizado em champagne, preto e branco. |
 | `logo/foto-perfil-sonho.svg` | A foto de perfil em vetor, para reexportar em qualquer tamanho. |
@@ -93,6 +96,8 @@ O painel de três avaliadores escolheu a mesma versão, por unanimidade: as letr
 - **Traço reforçado:** os fios finos do manuscrito ficaram cerca de 50% mais grossos, só nesta versão para tela.
 
 O ganho é maior nos tamanhos pequenos (feed, comentários, busca). No tamanho do perfil a foto atual já era aceitável.
+
+O reforço do traço tem um custo: ele reduz o contraste entre fios finos e grossos, que é o que dá elegância ao manuscrito. `foto-perfil-sonho-traco-original.png` mantém a caligrafia como foi desenhada; fica mais bonita no perfil e nos stories e um pouco mais apagada no feed e na barra. Veja `comparativo-traco.png` antes de escolher.
 
 Ponto fraco conhecido: no modo escuro o fundo preto se funde com a tela e o logotipo aparece solto, sem círculo. É o comportamento normal de marcas com foto preta.
 
