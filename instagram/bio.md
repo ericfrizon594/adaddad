@@ -19,7 +19,7 @@ A caixa é pequena. O Sonho, não. 🖤💛
 Escolha o seu ↓
 ```
 
-126 caracteres (limite do Instagram: 150), 4 linhas, 3 emojis.
+129 caracteres contando cada emoji como 2 (o limite do Instagram é 150), 4 linhas, 3 emojis.
 
 - **Linha 1** diz o que é e ocupa um espaço que nenhuma marca na caixa pesquisada ocupa: "na caixa" + "direto da fábrica".
 - **Linha 2** é a frase de marca. Responde sem dizer à dúvida "o colchão volta ao tamanho normal?".
@@ -42,7 +42,9 @@ Colchão na caixa, da nossa fábrica pra sua cama
 Peça o seu ↓
 ```
 
-133 caracteres com os números de exemplo.
+136 caracteres com os números de exemplo, contando cada emoji como 2.
+
+As duas primeiras linhas somam 84 caracteres, no limite do que aparece antes do "mais". Confira no celular depois de publicar. Se "ou devolver" aparecer cortado, troque a linha 1 por `Colchão na caixa, da nossa fábrica pra você`.
 
 Antes de usar, confirme:
 
@@ -56,7 +58,7 @@ Se uma prova não existir, apague a linha dela. Se faltarem duas, fique com a bi
 
 ## 3. Alternativas
 
-**Mais emocional** (97 caracteres). Boa quando o feed já tiver vídeos do colchão saindo da caixa.
+**Mais emocional** (99 caracteres). Boa quando o feed já tiver vídeos do colchão saindo da caixa.
 
 ```
 Abra a caixa. Veja o colchão crescer. 🖤💛
@@ -64,7 +66,7 @@ A espuma é nossa, a fábrica também.
 O seu está no link ↓
 ```
 
-**Mais direta** (132 caracteres). Boa enquanto a venda fecha no Mercado Livre e o primeiro link leva para lá.
+**Mais direta** (135 caracteres). Use só se o endereço visível no perfil for o do próprio Mercado Livre, ou quando o tráfego vier de anúncio para público que ainda não conhece a marca. Se o primeiro link for do domínio da Sonho, fique com a bio da seção 1.
 
 ```
 Colchão na caixa, direto da fábrica.
@@ -104,11 +106,13 @@ A embalagem, as capas de destaque e os posts continuam com o conjunto completo "
 
 ## 6. Configuração do perfil
 
-1. **WhatsApp no botão, não no texto.** Tire o telefone da bio. Em Editar perfil > Opções de contato, cadastre o número do WhatsApp Business e deixe o botão visível. Os nomes dos menus mudam entre versões do aplicativo.
+Os caminhos de menu abaixo não foram conferidos na versão atual do aplicativo. Se algum não aparecer onde indicado, procure pela função descrita.
+
+1. **WhatsApp no botão, não no texto.** Tire o telefone da bio. Em Editar perfil, nas informações de contato da empresa, cadastre o número do WhatsApp Business e ative a exibição do contato no perfil.
 2. **Primeiro link.** É o único que aparece no perfil, e aparece como endereço. Aponte para onde a compra fecha hoje. O ideal é um endereço do próprio domínio que redirecione para a página da marca no Mercado Livre (exemplo: `sonhocolchoes.com/comprar`).
 3. **Outros links.** Segundo: `sonhocolchoes.com`, com o título "Site oficial". Terceiro: o link direto do WhatsApp (`https://wa.me/55` + DDD + número, tudo junto), com o título "Fale com quem fabrica".
 4. **Categoria.** Em Editar perfil > Categoria, escolha fabricante de colchões (ou loja de colchões) e ative a exibição no perfil.
-5. **Destaques.** Quatro, com capas em preto e dourado: "Como chega", "A fábrica", "Modelos" e "Dúvidas". O Instagram mostra primeiro o que foi atualizado por último, então crie "Como chega" por último.
+5. **Destaques.** Quatro, com capas em preto e dourado: "Como chega", "A fábrica", "Modelos" e "Dúvidas". Um destaque só é criado a partir de um story já publicado, então publique antes pelo menos um story de cada tema. O Instagram mostra primeiro o que foi atualizado por último, então crie "Como chega" por último. Em "Dúvidas", responda hoje só o que já está definido; devolução, garantia e prazo entram quando estiverem escritos.
 6. **Posts fixados.** Três: carrossel de modelos e medidas, vídeo da fábrica ("a espuma é nossa") e Reel do colchão saindo da caixa. Fixe o Reel por último, para ele aparecer primeiro.
 7. **Quando os números da seção 2 estiverem confirmados e escritos no site,** troque a bio pela versão com provas e crie o destaque "Garantia".
 
